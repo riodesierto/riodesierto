@@ -27,7 +27,12 @@ shipping the apps and visualizations that make it useful.
 
 ---
 
-### Featured project
+### Featured projects
+
+**[zoom-attendance-analytics](https://github.com/riodesierto/zoom-attendance-analytics)**
+— End-to-end pipeline: Zoom Dashboard API → time-zone-aware aggregation →
+facilitator & geography analysis → editorial (*The Economist*-style) PDF report.
+Python · pandas · matplotlib.
 
 **[chile_gdp](https://github.com/riodesierto/chile_gdp)** — Visual analysis of
 Chile's economic growth (1961–2024) with World Bank data, in an editorial
