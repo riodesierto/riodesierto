@@ -35,13 +35,6 @@ Chile's economic growth (1961–2024) with World Bank data, in an editorial
 
 ---
 
-### GitHub
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=riodesierto&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riodesierto&layout=compact&hide_border=true)
-
----
-
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-esparza-morales/)
